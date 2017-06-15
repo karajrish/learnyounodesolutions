@@ -1,9 +1,8 @@
-Solutions to LEARNYOUNODE nodejs challenge
+# Solutions to LEARNYOUNODE [nodejs challenge](https://github.com/workshopper/learnyounode)
 
-https://github.com/workshopper/learnyounode
+## Instructions:
 
-Instructions:
-
-1) Follow th instructions from the above link to setup nodejs and learnyounode
+1) Follow the instructions from this [link](https://github.com/workshopper/learnyounode) to setup nodejs and learnyounode
 2) Run the solution by uncommenting the part of the particular problem solution
-	nodejs progs.js <args if necessary>
+
+	`nodejs progs.js <args if necessary>`
